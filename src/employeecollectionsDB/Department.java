@@ -4,6 +4,7 @@ public enum Department {
 	SALES(10), PURCHASE(20), ADMINISTRATION(30), RESEARCH(40);
 
 	int code;
+String check;
 
 	Department(final int code) {
 		this.code = code;
