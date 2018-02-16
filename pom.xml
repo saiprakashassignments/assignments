@@ -61,16 +61,16 @@
             </goals>
           </execution>
         </executions>
-        <configuration>
+         <configuration>
           <descriptorRefs>
             <descriptorRef>jar-with-dependencies</descriptorRef>
           </descriptorRefs>
           <archive>
-    <manifest>
+ <!--   <manifest>
 	<mainClass>employeecollectionsDB.EmployeeOperationsApp</mainClass>
-    </manifest>
+    </manifest> -->
   </archive>
-        </configuration>
+        </configuration> 
       </plugin>
     
    <!--   <plugin>
