@@ -67,7 +67,7 @@
           </descriptorRefs>
           <archive>
  <!--   <manifest>
-	<mainClass>employeecollectionsDB.EmployeeOperationsApp</mainClass>
+	<mainClass></mainClass>
     </manifest> -->
   </archive>
         </configuration> 
